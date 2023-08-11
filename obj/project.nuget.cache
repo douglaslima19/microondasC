@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "av/ENbW7Yn0PbwUHc+MFsdChqoyIuegrlnxDknAC7CzvYv8E0i+069YkLoMK3R/2A1qany/jKdogExOmXunhUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Douglas\\source\\repos\\microOndas\\microOndas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
